@@ -1,0 +1,3 @@
+# Install this optional set only when implementing NLP models.
+torch
+transformers

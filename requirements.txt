@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pandas
+requests
+feedparser
+sqlalchemy
+psycopg[binary]
+streamlit
+python-dotenv
+pytest
+httpx

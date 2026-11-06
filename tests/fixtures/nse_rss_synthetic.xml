@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Synthetic financial announcements</title>
+    <item>
+      <title>Synthetic Example Finance Limited</title>
+      <link>https://example.invalid/filings/synthetic-001.pdf</link>
+      <pubDate>04-Nov-2026 11:59:36</pubDate>
+      <description>Quarterly results announced. SUBJECT: Synthetic quarterly results</description>
+    </item>
+    <item>
+      <title>Synthetic Sample Bank Limited</title>
+      <link>https://example.invalid/filings/synthetic-002.pdf</link>
+      <pubDate>04-Nov-2026 12:10:00</pubDate>
+      <description>Board meeting outcome. SUBJECT: Synthetic board update</description>
+    </item>
+  </channel>
+</rss>
