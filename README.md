@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SentimentIQ
 
 SentimentIQ is an early-stage financial intelligence platform for Indian market information. It is designed to identify companies and financial aspects in news and official announcements, then explain positive, negative, or neutral aspect-level sentiment with supporting evidence. It is **not a stock-price prediction system**.
@@ -94,3 +95,6 @@ metrics are not fabricated: modules report unavailable or empty states until a r
 3. Implement and evaluate entity/aspect extraction and a FinBERT-based sentiment baseline.
 4. Add database migrations and persistence after choosing a PostgreSQL deployment.
 5. Add scheduled ingestion with Redis/Celery and connect the dashboard to persisted results.
+=======
+# SentimentIQ
+>>>>>>> origin/main
